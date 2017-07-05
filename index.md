@@ -1,9 +1,21 @@
 ---
-layout: default
+layout: page
+title: Baptiste "magnetik" Lafontaine
+subtitle: About me.
+desc: About me.
 ---
 
-<div class="lead pretty-links">
-  Hi, this is me! 
+<div class="pretty-links">
 
-  There is not much to see here, check the links in the top bar to see something interesting.
+<div class="lead lead-about">Baptiste Lafontaine - magnetik
 </div>
+
+{::nomarkdown} 
+<figure class="site-profile">
+    <img src="{{ site.baseurl }}/assets/img/profile.png">
+</figure>
+{:/}
+
+I'm curently living in Paris, France. Altough my mind is not really far away from the south west of France.
+
+I'm working at [Nadeo Ubisoft](http://nadeo.com) as an online engineer.
