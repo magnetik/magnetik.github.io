@@ -10,7 +10,7 @@ permalink: /contact/
 
 ## Curiculum
 
-You can find a more //pro-oriented// curiculum on [my linkedin profile](https://fr.linkedin.com/in/baptistelafontaine).
+You can find a more _pro-oriented_ curiculum on [my linkedin profile](https://fr.linkedin.com/in/baptistelafontaine).
 
 ---
 
