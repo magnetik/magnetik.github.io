@@ -32,9 +32,9 @@ navigation:
   - title: Portfolio
     url: /portfolio/
     desc: Some pics
-  - title: About
-    url: /about/
-    desc: About me
+  - title: Contact
+    url: /contact/
+    desc: Contact me
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
