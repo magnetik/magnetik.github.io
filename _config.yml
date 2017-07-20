@@ -16,7 +16,7 @@ github_username: magnetik
 github_source: ~
 
 # Put your ga tracking code below
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-329767-2'
 
 # Pagination settings
 paginate: 5                           # number of posts to show per page
