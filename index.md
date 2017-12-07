@@ -16,6 +16,6 @@ desc: About me.
 </figure>
 {:/}
 
-I'm curently living in Paris, France. Altough my mind is not really far away from the south west of France.
+I'm curently living near Bordeaux.
 
-I'm working at [Nadeo Ubisoft](http://nadeo.com) as an online engineer.
+I'm working at [Ubisoft Nadeo](http://nadeo.com) as an online engineer.
