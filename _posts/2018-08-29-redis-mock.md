@@ -19,3 +19,5 @@ I've found decorating the snc service in `services_test.xml` convenient:
             <argument>Predis\Client</argument>
 
         </service>
+
+What do you think?
