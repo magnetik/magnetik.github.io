@@ -18,4 +18,4 @@ desc: About me.
 
 I'm curently living near Bordeaux.
 
-I'm working at [Ubisoft Nadeo](http://nadeo.com) as an lead online engineer.
+I'm working at [Talkspirit](https://www.talkspirit.com/) as a senior PHP developper. 

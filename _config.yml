@@ -29,9 +29,6 @@ navigation:
   - title: Articles
     url: /articles/
     desc: Stuffs I write about
-  - title: Portfolio
-    url: /portfolio/
-    desc: Some pics
   - title: Contact
     url: /contact/
     desc: Contact me
